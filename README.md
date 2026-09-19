@@ -44,7 +44,7 @@
 - Microgame creation `Ongoing...`
 - Personal Website `Ongoing...`
 
-#### Current Status
+#### Academic Status
 - College Student | 3rd Semester
 
 ###
