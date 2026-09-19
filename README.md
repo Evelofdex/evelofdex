@@ -13,6 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 </div>
 
+###
   
 > Game Development
 <div align="left">
@@ -20,6 +21,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
+
+###
 
 > Other Languages
 <div align="left">
@@ -32,12 +35,25 @@
   <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
-### Personal Target
+## Personal Target
 - Microgame creation `Ongoing...`
 - Personal Website `Ongoing...`
 
-### Current Status
+## Current Status
 - College Student | 3rd Semester
+
+<h3 data-importer="text" align="center">Contact me:</h3>
+
+###
+
+<div data-importer="socials" align="center">
+  <a href="https://discord.com/users/857086554953482241" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
 
 
 
