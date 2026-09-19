@@ -1,4 +1,6 @@
-## Current Knowledge 
+<div align="center">
+	<h1> Current Knowledge  </h1>
+ </div>
 
 > Web Development
 <div align="center">
@@ -35,11 +37,14 @@
   <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
-## Personal Target
+<div align="center">
+	<h1> Personal Target  </h1>
+ </div>
+ 
 - Microgame creation `Ongoing...`
 - Personal Website `Ongoing...`
 
-## Current Status
+#### Current Status
 - College Student | 3rd Semester
 
 ###
