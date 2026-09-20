@@ -42,7 +42,8 @@
  </div>
  
 - Microgame creation `Ongoing...`
-- Personal Website `Ongoing...`
+- Personal Website `Achieved, partially... `
+	- Mobile viewport compability `Ongoing...`
 
 #### Academic Status
 - College Student | 3rd Semester
